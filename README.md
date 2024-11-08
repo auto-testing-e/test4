@@ -1,6 +1,6 @@
 git clone "https://github.com/user/test4.git"
 
-git submodule add ""https://github.com/user/test4.git"
+git submodule add "https://github.com/auto-testing-e/test3.git"
 
 
 
